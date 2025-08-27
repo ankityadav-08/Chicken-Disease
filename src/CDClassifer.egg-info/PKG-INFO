@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: CDClassifer
+Version: 0.0.0
+Summary: Python Pakage of classification app
+Home-page: https://github.com/Ankit/CDClassifier
+Author: Ankit
+Project-URL: Bug Tracker, https://github.com/Ankit/CDClassifier/issues
+Dynamic: author
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# Chicken-Disease
+Checking the chicken disease
